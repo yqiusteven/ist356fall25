@@ -18,6 +18,8 @@ In this course you'll do it the real way, nothing is hidden / abstracted away fo
 
 Here's what you'll need to install on your computer. Please read this entire section prior to installing. :-)
 
+NOTE: If you are a MAC user UV will be a better project manager. See https://docs.astral.sh/uv/getting-started/installation/
+
 1. **Visual Studio Code**: https://code.visualstudio.com/Download   
 This is a free editor with testing and debugging capabilities. As you install you can accept all defaults, except the last one: DO NOT launch the application when complete! If you do, simply close it. 
 
@@ -25,7 +27,8 @@ This is a free editor with testing and debugging capabilities. As you install yo
 As you set it up, you will be asked several questions, for which the default selection is fine. EXCEPTION: choose Visual Studio Code as the default editor. 
 
 3. **Python 3**: https://www.python.org/downloads/  
-Do not download the latest recommended Python 3 version. For maximum stability and compatability with other code, you'll want to download the Download the highest security release. As of Fall 2024, that's Python 3.11 
+Do not download the latest recommended Python 3 version. For maximum stability and compatability with other code, you'll want to download the Download the highest security release. As of Fall 2024, that's Python 3.11
+
 
 ## Setup 2: Github Account
 
