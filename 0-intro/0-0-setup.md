@@ -67,7 +67,19 @@ You should see a window that looks like this...
 
 ![Mac Terminal](macterminal.png)
 
-Here are some basic command prompts to try. See https://zwbetz.com/mac-to-windows-command-line-mappings/
+Essential Terminal Commands:
+
+- cd: Change directory. Example: `cd Documents`
+
+- ls: List files and directories. Example: `ls -l`
+
+- mkdir: Make a directory. Example: `mkdir MyFolder`
+
+- rm: Remove files or directories. Example: `rm myfile.txt`
+
+- cp: Copy files or directories. Example: `cp myfile.txt MyFolder`
+
+Here is a comprehensive list of command prompts to try. See https://zwbetz.com/mac-to-windows-command-line-mappings/
 
 ## Step 1: Software Installs
 
