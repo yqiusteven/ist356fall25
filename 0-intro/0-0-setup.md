@@ -52,7 +52,7 @@ Option 2: Using Finder
 
 You should see a window that looks like this...
 
-
+![Mac Terminal](macterminal.png)
 
 ## Step 1: Software Installs
 
