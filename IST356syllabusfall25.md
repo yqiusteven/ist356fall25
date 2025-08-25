@@ -10,7 +10,7 @@
    Teaching Asssistant: Katherine Batista
    Email: kebatist@syr.edu
 
-   Office Hours:  M/W 1-2 pm - 323E Hinds Hall/By appointment via Zoom
+   Office Hours:  M/W noo-2 pm - 323E Hinds Hall/By appointment via Zoom
 
 ```
 
