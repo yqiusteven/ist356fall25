@@ -36,6 +36,19 @@ You should see a window like this ...
 
 ![Windows Terminal](windowsterminal.png)
 
+Essential Command Prompt Commands:
+
+- cd: Change directory. Example: `cd Documents`
+
+- dir: Display contents of the directory. Example: `dir /w`
+
+- mkdir: Make a directory. Example: `mkdir MyFolder`
+
+- del: Delete files or directories. Example: `del myfile.txt`
+
+- copy: Copy files or directories. Example: `copy myfile.txt MyFolder`
+
+
 ### macOS - Terminal 
 
 How to Open Terminal
