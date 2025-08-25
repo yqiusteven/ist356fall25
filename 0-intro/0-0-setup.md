@@ -34,7 +34,7 @@ Option 2: Using the Run Dialog
 
 You should see a window like this ...
 
-![Windows Terminal](0-intro/windowsterminal.png)
+![Windows Terminal](windowsterminal.png)
 
 ### macOS - Terminal 
 
