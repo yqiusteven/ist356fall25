@@ -14,6 +14,8 @@ Coursework, slides, examples | You clone / diff the prof repo | Autodiff and mer
 
 In this course you'll do it the real way, nothing is hidden / abstracted away for you.
 
+## Command Prompts
+
 Before we get into installations let us review some basic command prompts. We will be these text instructions in the command line interface. 
 
 ### Windows – Command Prompt
@@ -29,6 +31,22 @@ Option 1: Using the Start Menu
 Option 2: Using the Run Dialog
 - Press Windows Key + R on your keyboard.
 - Type cmd and press Enter
+
+
+### macOS - Terminal 
+
+How to Open Terminal
+There are two easy ways:
+
+Option 1: Using Spotlight Search
+- Press Command + Space on your keyboard.
+- Type Terminal and hit **Enter**.
+
+Option 2: Using Finder
+- Open Finder.
+- Go to Applications > Utilities.
+- Double-click on Terminal.
+
 
 
 ## Step 1: Software Installs
