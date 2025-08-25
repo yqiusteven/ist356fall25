@@ -32,6 +32,9 @@ Option 2: Using the Run Dialog
 - Press Windows Key + R on your keyboard.
 - Type cmd and press Enter
 
+You should see a window like this ...
+
+
 
 ### macOS - Terminal 
 
