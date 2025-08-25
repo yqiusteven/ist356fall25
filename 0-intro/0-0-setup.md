@@ -44,7 +44,7 @@ Essential Command Prompt Commands:
 
 - mkdir: Make a directory. Example: `mkdir MyFolder`
 
-- del: Delete files or directories. Example: `del myfile.txt`
+- del: Delete files or directories. Example: `del myfile.txt` or 'rmdir <folder_name>'
 
 - copy: Copy files or directories. Example: `copy myfile.txt MyFolder`
 
