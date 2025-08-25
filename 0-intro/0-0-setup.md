@@ -50,6 +50,8 @@ Option 2: Using Finder
 - Go to Applications > Utilities.
 - Double-click on Terminal.
 
+You should see a window that looks like this...
+
 
 
 ## Step 1: Software Installs
