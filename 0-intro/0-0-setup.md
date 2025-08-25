@@ -54,6 +54,8 @@ You should see a window that looks like this...
 
 ![Mac Terminal](macterminal.png)
 
+Here are some basic command prompts to try. See https://zwbetz.com/mac-to-windows-command-line-mappings/
+
 ## Step 1: Software Installs
 
 Here's what you'll need to install on your computer. Please read this entire section prior to installing. :-)
