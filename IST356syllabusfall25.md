@@ -91,7 +91,7 @@ This course requires you to install software on your computer. You will need to 
 
 ### Attendance and Participation
 
-You are expected to attend and participate in every class session. If you must miss class, you will be responsible for making up the work and catching up on what was missed. Do expect a pre-recorded lecture or instructor support if you miss class. Consider reaching out to a classmate to share notes from class.
+You are expected to attend and participate in every class session. If you must miss class, you will be responsible for making up the work and catching up on what was missed. I recommend reaching out to me to review content you missed. Also consider reaching out to a classmate to share notes from class.
 
 ### Assignments
 
@@ -123,8 +123,9 @@ The project is your opportunity to demonstrate what you have learned in an exper
 
 | Assessment | Type | Learning Outcomes | Quantity | Points Each | Points Percent |
 |------------|------|-------------------|----------|-------------|--------------|
-| Assignments | Formative | 1, 2 | 10 | 3 | 30 |
-| Exams | Summative | 3, 4 | 2 | 25 | 50 |
+| Attendance | Formative | 1, 2 | 15 | 1 | 15 |
+| Assignments | Formative | 1, 2 | 10 | 2.5 | 25 |
+| Exams | Summative | 3, 4 | 2 | 20 | 40 |
 | Project | Summative | 5 | 1 | 20 | 20 |
 | **Total** | | | | | **100** |
 
