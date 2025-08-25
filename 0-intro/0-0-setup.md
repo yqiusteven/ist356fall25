@@ -14,6 +14,23 @@ Coursework, slides, examples | You clone / diff the prof repo | Autodiff and mer
 
 In this course you'll do it the real way, nothing is hidden / abstracted away for you.
 
+Before we get into installations let us review some basic command prompts. We will be these text instructions in the command line interface. 
+
+### Windows – Command Prompt
+
+How to Open Command Prompt
+There are several ways to open it:
+
+Option 1: Using the Start Menu
+- Click the Start button.
+- Type cmd or Command Prompt.
+- Click on the Command Prompt app.
+
+Option 2: Using the Run Dialog
+- Press Windows Key + R on your keyboard.
+- Type cmd and press Enter
+
+
 ## Step 1: Software Installs
 
 Here's what you'll need to install on your computer. Please read this entire section prior to installing. :-)
@@ -28,6 +45,8 @@ As you set it up, you will be asked several questions, for which the default sel
 
 3. **Python 3**: https://www.python.org/downloads/  
 Do not download the latest recommended Python 3 version. For maximum stability and compatability with other code, you'll want to download the Download the highest security release. As of Fall 2024, that's Python 3.11
+
+See Resources for Setup on Blackboard for more details. I strongly recommend you review. 
 
 
 ## Setup 2: Github Account
