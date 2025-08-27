@@ -141,7 +141,8 @@ The last step is to configure VS Code for Python debugging. Provided everything 
 2. Clone the IST356 master code repository:
     1. Click the "Explorer" Icon in the Activity Bar
     2. Click "Clone Repository" button
-    3. In the search bar type mafudge/ist356
-3. Check to ensure your environment works.
+    3. In the search bar type https://github.com/auramnar/ist356fall25
+    4.   Check to ensure your environment works.
+       
     1. Open `0-intro/hello.py` run it (menu -> Run -> Start Debuggging) Type your name in the terminal and press ENTER. You should see the output in the terminal and then a `ist356>` prompt.
     2. Open `0-intro/hello.ipynb` notebook file. Run the code cell (click on the cell and press SHIFT+ENTER). Enter your name in the textbox and see the output.
