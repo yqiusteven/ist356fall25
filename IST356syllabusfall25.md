@@ -7,8 +7,11 @@
    Instructor:  Angela Ramnarine-Rieks Ph.D. 
    Email: auramnar@syr.edu
 
-   Teaching Asssistant: Katherine Batista
-   Email: kebatist@syr.edu
+   Teaching Asssistants:
+   Katherine Batista ...   Email: kebatist@syr.edu
+   Philip Cheuk ...        Email: pcheuk@syr.edu
+   See Blackboard for assistants availability
+   
 
    Office Hours:  M/W noon-2 pm - 323E Hinds Hall/By appointment via Zoom
 
