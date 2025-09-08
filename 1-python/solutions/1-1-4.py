@@ -11,4 +11,3 @@ Write a program to input the number grade and calculate the letter grade
 
 Re-write to account for "bad" grades > 120 or < 0
 '''
-
