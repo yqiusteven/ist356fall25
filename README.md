@@ -22,7 +22,8 @@ If your content code is updated, here's how you get it in VS Code:
 1. Open your Terminal in VS Code: menu => Terminal => New Terminal
 2. In the terminal, enter the command: `git fetch --all` to download the latest updates.
 3. Next in the terminal, enter the command: `git reset --hard origin/main` to merge the changes into your local repository and force your working directory to match the update.
-4. Download the pip dependencies: `uv pip install -r requirements.txt` Ensure you are in the correct python intrepreter. 
+   
+1. Download the pip dependencies: `uv pip install -r requirements.txt` Ensure you are in the correct python intrepreter. 
 
 ### Requirements
 
