@@ -4,4 +4,3 @@ Write a sentinel controlled loop to input a color until "quit" is entered. add e
 only when the color is not already in the list print the list each time in the loop.
 '''
 
-

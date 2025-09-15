@@ -16,6 +16,8 @@ try:
     grade = float(input("Enter the student's number grade: "))
     
     # Calculate the letter grade based on the number grade
+    if grade < 0 or grade > 120:
+        print("Invalid grade. Please enter a grade between 0 and 120.")
     if grade >= 95:
         print("Your letter grade is A")
     elif grade >= 75:
