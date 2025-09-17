@@ -16,7 +16,7 @@ while True:
         break
     
     qty = int(input("Enter a quantity: "))
-    if item in items.keys(): #checks if item in dictionary, keys()function displays all the keys in the dictionary 
+    if item in items.keys():#checks if item in dictionary, keys()function displays all the keys in the dictionary 
         items[item] = items[item] + qty # updates quantity
     else:
         items[item] = qty # item not found so add key and value to dictionary

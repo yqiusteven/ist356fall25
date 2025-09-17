@@ -8,4 +8,27 @@ Write a function called `cleanup` which takes a string as input and returns a "c
 
 '''
 
+'''
+def cleanup(dirtystr:str) -> str:
+    noPunct =dirtystr.strip('?,.!') # remove punctuation
+    return noPunct.strip().lower()
+    # removes punctuation
 
+
+
+# main code 
+
+
+
+'''
+def cleanup(dirtystr: str) -> str:
+    for ch in "?,.!":
+        if ch in dirtystr:
+            return dirtystr.replace(ch, "").strip().lower()
+
+
+#main code 
+
+dirtystr = "  Hello, World!  "
+cleanedstr = cleanup(dirtystr)
+print(cleanedstr)
