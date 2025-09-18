@@ -162,19 +162,19 @@ Based on the assignments in this course and our specified learning outcomes, the
 | 1 | 8/25 | 8/27 | 8/31 |
 |   | Course Introduction | Class Setup | Complete Setup  |
 | 2 | 9/1 | 9/3 | 9/7 |
-|   | No Class: Labor Day | Python 1-1 | Assignment 1 (A1) * 9/8 |
+|   | No Class: Labor Day | Python 1-1 | Assignment 1 (A1) |
 | 3 | 9/8 | 9/10 | 9/14 |
 |   | Python 1-2 | Python 1-3 | Practice |
 | 4 | 9/15 | 9/17 | 9/21 |
 |   | Python 1-3 | Python 1-4 | Assignment 2 (A2) |
 | 5 | 9/22 | 9/24 | 9/28 |
-|   | Python 1-4, Data Wrangling 3-1 | Data Wrangling 3-2 | Assignment 3 (A3) |
+|   | Python 1-4, Data Wrangling 3-1 | Data Wrangling 3-2 | Practice |
 | 6 | 9/29 | 10/1 | 10/5 |
-|   | Data Wrangling 3-3 | Data Wrangling 3-4 | Assignment 4 (A4) |
+|   | Data Wrangling 3-1, 3-2 | Data Wrangling 3-3, 3-4 | Assignment 3 (A3) |
 | 7 | 10/6 | 10/8 | 10/12 |
-|   | Data Wrangling 3-5 | Data Wrangling 3-6 | Assignment 5 (A5) |
+|   | Data Wrangling 3-5 | Data Wrangling 3-6 | Assignment 4 (A4) |
 | 8 | 10/13 | 10/15 | 10/19 |
-|   |  No Class: Fall Break | Exam 1 (E1) |  |
+|   |  No Class: Fall Break | Exam 1 (E1) | Assignment 5 (A5) |
 | 9 | 10/20 | 10/22 | 10/26 |
 |   | Web APIs 4-1 | Web APIs 4-2 | Practice |
 | 10 | 10/27 | 10/29 | 11/2 |
