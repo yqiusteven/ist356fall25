@@ -7,28 +7,20 @@ Write a function called `cleanup` which takes a string as input and returns a "c
  write code to call your function and test it
 
 '''
-
-'''
-def cleanup(dirtystr:str) -> str:
-    noPunct =dirtystr.strip('?,.!') # remove punctuation
-    return noPunct.strip().lower()
-    # removes punctuation
-
-
-
-# main code 
-
-
-
-'''
-def cleanup(dirtystr: str) -> str:
-    for ch in "?,.!":
+def cleanup(dirtystr:str)->str:
+    for ch in '?,.!':
         if ch in dirtystr:
-            return dirtystr.replace(ch, "").strip().lower()
+            dirtystr=dirtystr.replace(ch,'')
+            
+            
+    return dirtystr.strip().lower()
 
 
-#main code 
+
+#main program 
 
 dirtystr = "  Hello, World!  "
-cleanedstr = cleanup(dirtystr)
-print(cleanedstr)
+cleanedstr = cleanup(dirtystr) 
+print(cleanedstr)  # Output should be "hello world" 
+        
+        
