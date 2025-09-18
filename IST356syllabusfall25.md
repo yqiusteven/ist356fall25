@@ -168,7 +168,7 @@ Based on the assignments in this course and our specified learning outcomes, the
 | 4 | 9/15 | 9/17 | 9/21 |
 |   | Python 1-3 | Python 1-4 | Assignment 2 (A2) |
 | 5 | 9/22 | 9/24 | 9/28 |
-|   | Python 1-4, Data Wrangling 3-1 | Data Wrangling 3-2 | Practice |
+|   | Python 1-4, UI 2.1 | UI 2.2 | Practice |
 | 6 | 9/29 | 10/1 | 10/5 |
 |   | Data Wrangling 3-1, 3-2 | Data Wrangling 3-3, 3-4 | Assignment 3 (A3) |
 | 7 | 10/6 | 10/8 | 10/12 |
