@@ -1,41 +1,31 @@
 '''
-write a program to read in a string of students and gpas in one input statement like this:
-
-and write out JSON like this:
-
-```
-[
-    { "name" : "tom", "gpa" : 3.4 },
-    { "name" : "noel", "gpa" : 3.2 },
-    { "name" : "obby", "gpa" : 3.5 },
-    { "name" : "peta", "gpa" : 3.4 }
-]
-```
-
-Suggested approach:
-
-    1. input text
-    2. for each student split on "," from the text
-    3.    split the student into name and gpa 
-    4.    parse the gpa so its a float
-    5.    add the name and gpa to the list
-    6. write the list to students.json as JSON
-
+Write tests
 
 '''
 
 
-import json 
-import os
+# Test functions to assert expected results
 
-text = input("Enter name and grades")
+def test_parsedate_mdy():
+    # Test Case 1: Valid input
+    date = parsedate_mdy("02/05/2025")
+    assert date == datetime(2025, 2, 5), f"Test failed: expected '2025-02-05', got {date}"
 
-students = [] # empty list
-for student in text.split(","): # split on comma
-    name, gpa = student.strip().split() 
-    gpa = float(gpa) # convert gpa to float
-    students.append({"name": name, 'grade': gpa}) # add to list
-print(students)
+    # Test Case 2: Another valid input
+    date = parsedate_mdy("12/25/2023")
+    assert date == datetime(2023, 12, 25), f"Test failed: expected '2023-12-25', got {date}"
 
-with open("students.json", "w") as file:
-    json.dump(students, file, indent=2) # write to file as JSON
+def test_formatdate_ymd():
+    # Test Case 1: Valid datetime object
+    date_str = formatdate_ymd(datetime(2025, 2, 5))
+    assert date_str == "2025-02-05", f"Test failed: expected '2025-02-05', got {date_str}"
+
+    # Test Case 2: Another valid datetime object
+    date_str = formatdate_ymd(datetime(2023, 12, 25))
+    assert date_str == "2023-12-25", f"Test failed: expected '2023-12-25', got {date_str}"
+
+# Run the test functions
+if __name__ == "__main__":
+    test_parsedate_mdy()
+    test_formatdate_ymd()
+    print("All tests passed!")
