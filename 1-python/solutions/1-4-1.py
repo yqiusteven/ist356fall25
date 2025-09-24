@@ -10,7 +10,8 @@ You will need to read through the module with `dir()` and `help()` or read the p
 '''
 
 from datetime import datetime, timedelta
-#today= datetime.now()
+#exploring datetime module
+#today= datetime.datetime.now()
 #print(today.day)
 
 
