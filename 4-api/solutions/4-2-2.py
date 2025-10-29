@@ -9,7 +9,7 @@ texts = [
 ]
 
 cache = rq.clear_cache('sentiment.pkl') 
-apikey = "your_api_key_here"
+apikey = "3e87733d504b1731c65e565e"
 headers = { 'x-api-key': apikey }
 url = "https://cent.ischool-iot.net/api/azure/sentiment"
 for text in texts: 
